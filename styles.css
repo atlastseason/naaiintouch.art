@@ -1,0 +1,28 @@
+* {
+}
+
+html {
+    font-family: Sarabun, Helvetica, Verdana, Arial, sans-serif;
+    background-color: whitesmoke;
+    font-size: 18px;
+}
+
+body {
+    display: flex;
+    margin-inline: 20%;
+}
+
+img {
+    max-inline-size: 100%;
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+}
+
+article {
+}
+p {
+    padding: 1rem;
+}
